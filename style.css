@@ -1,0 +1,148 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+
+header {
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    display: block;
+}
+.page-header {
+    margin: 10;
+    padding: 100px 70;
+    
+}
+
+.page-header .container,
+.page-footer .container {
+    max-width: 1808px;
+    text-align: right;
+}
+
+.infobomne {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 16px 0;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #f2f4f6;
+    margin-top: -60px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-position: top center;
+    background-image: url(img/eberhard-grossgasteiger-YI9fiqgs9Nk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-color: #f2f4f6;
+    background-size: 100%;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #f2f4f6;
+    font-size: 2em;
+    margin: 0.67em 0;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-email,
+.header-phone {
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.header-email {
+    margin-right: 30px;
+}
+.page-header {
+    margin: 0;
+    padding: 32px 0;
+}
+.kartinka {
+    margin-left: 1330px;
+    margin-bottom: -70px;
+}
+.kartinka2 {
+    margin-bottom: -70px;
+    margin-left: 210px;
+}
+
+#contact {
+    color: #f2f4f6;
+}
+
+
+textarea {
+    resize: none;
+    padding-right: 9px;
+}
+
+
+.container {
+    padding: 10px 0;
+    padding-right: 190px;
+    background-color: #feffff;
+    color: #000000;
+}
+#about {
+    color: #f2f4f6;
+    text-align: center;
+    
+}
+#works {
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+}
+.contact-bottom-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+    background-color: #0000008e;
+    color: #000000;
+    max-width: 200px; 
+    max-height: 200px;
+    box-shadow: -5px -5px 15px rgba(0, 0, 0, 0.1);
+    font-family: 'Montserrat', sans-serif;
+}
+.knopka {
+    padding-right: 27px;
+}
+.rounded-image {
+    border-radius: 10px; 
+    width: 20%;
+    position: absolute;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.site1 {
+    
+    color: #f2f4f6;
+    font-size: 30px;
+    position: relative;
+    
+}
+.rounded-image2 {
+    border-radius: 10px; 
+    width: 20%;
+    position: absolute;
+  margin-top: 260px;
+  margin-left: 133px;
+}
+.site2 {
+    color: #ffffff;
+    font-size: 30px;
+    position: relative;
+    line-height: 450px;
+}
+#works2 {
+    text-align: center;
+    
+}
